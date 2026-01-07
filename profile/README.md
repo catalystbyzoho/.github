@@ -11,7 +11,7 @@
 console.log('Hello, World! Welcome to Catalyst by Zoho!');
 ```
 
-**[Catalyst by Zoho](https://catalyst.zoho.com/)** is a comprehensive cloud development platform that provides both frontend and backend components, including authentication, databases, storage, and computing functions. Built on the same trusted infrastructure that powers Zoho’s enterprise products, Catalyst ensures high security, scalability, and reliability. With seamless integration capabilities and robust development tools, it enables developers to build, deploy, and manage applications efficiently.
+**[Catalyst by Zoho](https://catalyst.zoho.com/?utm_source=github&utm_medium=readme&utm_campaign=catalyst-oss&utm_content=homepage-link)** is a comprehensive cloud development platform that provides both frontend and backend components, including authentication, databases, storage, and computing functions. Built on the same trusted infrastructure that powers Zoho’s enterprise products, Catalyst ensures high security, scalability, and reliability. With seamless integration capabilities and robust development tools, it enables developers to build, deploy, and manage applications efficiently.
 
 #### 🏗️ Roadmap
 
@@ -20,7 +20,7 @@ console.log('Hello, World! Welcome to Catalyst by Zoho!');
 
 #### 📡 Dev Community & Support
 
-- 🗨️ Connect with contributors on [Catalyst Community](https://forums.catalyst.zoho.com/portal/en/community/recent).
+- 🗨️ Connect with contributors on [Catalyst Community](https://forums.catalyst.zoho.com/portal/en/community/recent?utm_source=github&utm_medium=readme&utm_campaign=catalyst-oss&utm_content=community-link).
 - 🛠️ Need debugging help? Open an issue or reach us at [support@zohocatalyst.com
   ]()
 
