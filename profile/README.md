@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://catalyst.zoho.com">
-        <img src="./images/banner.webp" alt="banner">
+        <img src="./images/banner.svg" alt="Catalyst by Zoho: the agent-ready, full-stack cloud">
     </a>
     <br />
 </p>
